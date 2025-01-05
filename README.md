@@ -223,3 +223,12 @@ Use `window.innerWidth` and `window.innerHeight`.
 
 ---
 
+### 39. **What is function currying in javascript**
+
+currying is technique in js in which a function with multiple arguments in broken down into a single function which accepts a single parameter and returns a single function which takes the second parameter as the arguments and returns another function, it helps us to to create higher order function, modular and reusable code, it makes code more readable.
+
+---
+
+
+
+
