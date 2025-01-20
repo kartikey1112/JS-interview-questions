@@ -12,6 +12,37 @@ console.log(sayHi.bind(person, 21));
 // C: Lydia is 21 Lydia is 21
 // D: Lydia is 21 function
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Answer: D
 // With both, we can pass the object to which we want the this keyword to refer to. However, .call is also executed immediately!
 

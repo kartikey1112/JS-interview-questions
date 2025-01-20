@@ -5,10 +5,36 @@ const three = [] || 0 || true;
 console.log(one, two, three);
 
 
+
+
 // A: false null []
 // B: null "" true
 // C: {} "" []
 // D: null null true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Answer
 
 // Answer: C
